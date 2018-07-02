@@ -43,7 +43,7 @@ Each project is inside a folder indicating its dificilty and the subdomain it be
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/fotisk07/AlgorithmicToolbox-UCalifornia/blob/master/CONTRIBUTING.md) for the process for submitting pull requests. .g
+Please read [CONTRIBUTING.md](https://github.com/fotisk07/Hacker-Rank-Python/blob/master/CONTRIBUTING) for the process for submitting pull requests. .g
 
 ## Authors
 
