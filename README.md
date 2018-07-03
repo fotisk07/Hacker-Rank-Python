@@ -1,10 +1,10 @@
 # Hacker Rank Python
 This repository contains the solved programming challenges in Hacker Rank. It is a repository in progress, it will be updated as soon as possible with the rest of the challenges. The goal is to have all assignements published as soon as possible. The following topis will be covered :
-1. Introduction
-2. Basic Data Types
+1. Introduction (completed)
+2. Basic Data Types (completed)
 3. Strings
 4. Sets
-5. Math
+5. Math (completed)
 6. Itertools
 7. Collections
 8. Date and Time
